@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/akashs/apriltag_detection/catkin_ws/devel/setup.sh

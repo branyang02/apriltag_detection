@@ -1,0 +1,2 @@
+apriltag_ros/apriltag_ros:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/akashs/apriltag_detection/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/akashs/apriltag_detection/catkin_ws/install -G Unix Makefiles
