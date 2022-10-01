@@ -133,8 +133,8 @@
               ```
             ![test](/.images/quaternion.jpg)
 
-<img align="left" width="240"  src=".images/quaternion.jpg">
-<img align="right" width="240"  src=".images/positions.jpg">
+            <img align="left" width="240"  src=".images/quaternion.jpg">
+            <img align="right" width="240"  src=".images/positions.jpg">
 
 
 <!-- USAGE EXAMPLES -->
