@@ -1,8 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Object Localization using AprilTag ROS for Robotics
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 ### Built With
 
